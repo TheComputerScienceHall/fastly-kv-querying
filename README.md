@@ -1,1 +1,1 @@
-# fastly-kv-querying
+# Querying Fastly KV Store
