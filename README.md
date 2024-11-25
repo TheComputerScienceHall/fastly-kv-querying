@@ -1,1 +1,1 @@
-# Querying Fastly KV Store
+# Querying Fastly® KV Store
